@@ -19,6 +19,8 @@ reconstruction image
 
 segmentation result
 
+Also you can see my slides for results.
+
 Follow Prof. Emily Porter
 
 Helped by Dr. Eleonora Razzicchia
