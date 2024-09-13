@@ -7,6 +7,10 @@ Use my model to reconstruct and segmentate images.
 
 or you can use my code directly including everything.
 
+![image](https://github.com/user-attachments/assets/61dae6df-63af-4595-b7af-2e981415cf77)
+
+raw image (freqency file)
+
 ![image](https://github.com/user-attachments/assets/38ba5941-b3b2-4d76-b771-c7502418ba5c)
 
 reconstruction image
